@@ -1,4 +1,4 @@
-# Assignment 5: Public Key Cryptography
+# Public Key Cryptography
 
 ## Files:
 
